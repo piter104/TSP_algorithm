@@ -1,0 +1,28 @@
+﻿  TSP algorithm.cpp
+c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\aco optimalization.cpp(27): error C2065: "visited": niezadeklarowany identyfikator
+c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\aco optimalization.cpp(30): error C2065: "pheromone_tab": niezadeklarowany identyfikator
+c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\aco optimalization.cpp(37): error C2065: "visited": niezadeklarowany identyfikator
+c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\aco optimalization.cpp(40): error C2065: "pheromone_tab": niezadeklarowany identyfikator
+c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\aco optimalization.cpp(42): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\aco optimalization.cpp(52): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\aco optimalization.cpp(65): error C2065: "pheromone_tab": niezadeklarowany identyfikator
+c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\aco optimalization.cpp(66): error C2065: "pheromone_tab": niezadeklarowany identyfikator
+c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\aco optimalization.cpp(72): error C2065: "pheromone_tab": niezadeklarowany identyfikator
+c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\aco optimalization.cpp(73): error C2065: "pheromone_tab": niezadeklarowany identyfikator
+c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\aco optimalization.cpp(81): error C2065: "visited": niezadeklarowany identyfikator
+c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\aco optimalization.cpp(89): error C2065: "dist": niezadeklarowany identyfikator
+c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\aco optimalization.cpp(101): error C2065: "matrix2": niezadeklarowany identyfikator
+c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\aco optimalization.cpp(107): error C2065: "path2": niezadeklarowany identyfikator
+c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\aco optimalization.cpp(109): error C2065: "pheromone_tab": niezadeklarowany identyfikator
+c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\aco optimalization.cpp(113): error C2065: "pheromone_tab": niezadeklarowany identyfikator
+c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\aco optimalization.cpp(114): error C2065: "matrix2": niezadeklarowany identyfikator
+c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\aco optimalization.cpp(117): error C2065: "pheromone_tab": niezadeklarowany identyfikator
+c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\aco optimalization.cpp(125): error C2065: "dist": niezadeklarowany identyfikator
+c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\aco optimalization.cpp(125): error C2065: "path2": niezadeklarowany identyfikator
+c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\aco optimalization.cpp(128): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\aco optimalization.cpp(131): error C2065: "visited": niezadeklarowany identyfikator
+c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\tsp algorithm.cpp(12): error C2086: "int *path": zmiana definicji
+  c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\aco optimalization.cpp(11): note: zobacz deklarację „path”
+c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\tsp algorithm.cpp(14): error C2086: "double **matrix": zmiana definicji
+  c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\aco optimalization.cpp(12): note: zobacz deklarację „matrix”
+c:\users\piotr\source\repos\tsp algorithm\tsp algorithm\tsp algorithm.cpp(92): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
